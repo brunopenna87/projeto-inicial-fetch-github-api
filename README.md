@@ -30,22 +30,24 @@ Aplicação web desenvolvida em **HTML, CSS e JavaScript**, que consome a **API 
 ---
 
 ## 📂 Estrutura do Projeto
-
+\`\`\`
 projeto-inicial-fetch-github-api/
 │── index.html
 │── src/
-│ ├── css/
-│ │ ├── reset.css
-│ │ └── styles.css
-│ └── scripts/
-│ ├── index.js
-│ ├── variables.js
-│ ├── objects/
-│ │ ├── screen.js
-│ │ └── user.js
-│ └── services/
-│ ├── repositories.js
-│ └── user.js
+│   ├── css/
+│   │   ├── reset.css
+│   │   └── styles.css
+│   └── scripts/
+│       ├── index.js
+│       ├── variables.js
+│       ├── objects/
+│       │   ├── screen.js
+│       │   └── user.js
+│       └── services/
+│           ├── repositories.js
+│           └── user.js
+\`\`\`
+
 ---
 
 ## ▶️ Como Executar Localmente
